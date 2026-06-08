@@ -26,8 +26,8 @@
 ### 📈 DSA Progress
 | Topic | Status |
 |---|---|
-| Arrays & Strings | ✅ Done |
-| Linked Lists | 🔄 In Progress |
+| Arrays & Strings | 🔄 In Progress |
+| Linked Lists | ⬜ Upcoming |
 | Stacks & Queues | ⬜ Upcoming |
 | Trees & Graphs | ⬜ Upcoming |
 | Dynamic Programming | ⬜ Upcoming |
